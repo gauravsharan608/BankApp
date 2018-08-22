@@ -1,0 +1,91 @@
+@CHARSET "ISO-8859-1";
+
+root {
+	display: block;
+}
+
+.error {
+	color: red;
+	font-size: 125%;
+	letter-spacing: 2.5px;
+	text-align: center
+}
+.head{
+	
+}
+.success {
+	color: green;
+	font-size: 125%;
+	letter-spacing: 2.5px;
+	text-align: center
+}
+
+.title {
+	color: slateblue;
+	background-color: whitesmoke;
+	letter-spacing: 2.5px;
+	text-align: center
+}
+
+.subtitle {
+	color: #38192A;
+	letter-spacing: 2.28px;
+	text-align: left;
+	font-size: 120%;
+}
+
+.heading {
+	color: blue;
+	
+	font-size: 110%;
+	letter-spacing: 0.8px;
+	text-align: center
+}
+
+.content {
+	color: black;
+	font-size: 110%;
+	letter-spacing: 0.8px;
+	text-align: center
+}
+
+h6 {
+	color: slateblue;
+	background-color: whitesmoke;
+	letter-spacing: 3.5px;
+	text-align: center
+}
+
+.header {
+	color: blue;
+	font-size: 125%;
+	letter-spacing: 0.8px;
+	
+}
+
+.headerT {
+	text-align: left
+}
+
+.headerL {
+	text-align: right
+}
+.footer{
+    position:fixed;
+    height:50px;    
+    bottom:0px;
+    left:0px;
+    right:0px;
+    margin-bottom:0px;
+}
+
+h1 {
+	color: brown;
+	
+	letter-spacing: 3.5px;
+	text-align: center
+}
+
+body {
+	background-color: #E0E0D1;
+}
